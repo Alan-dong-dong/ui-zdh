@@ -1,0 +1,7 @@
+[
+  "test_login.py::TestLogin::test_login_failed_invalid_data[case0]",
+  "test_login.py::TestLogin::test_login_failed_invalid_data[case1]",
+  "test_login.py::TestLogin::test_login_failed_invalid_data[case2]",
+  "test_login.py::TestLogin::test_login_failed_invalid_data[case3]",
+  "test_login.py::TestLogin::test_login_success"
+]
